@@ -22,15 +22,17 @@ Here are some ideas to get you started:
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
 
+### Database
+<!--![MongoDB](https://skillicons.dev/icons?i=mongodb)-->
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
 <!--### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
--->
-### Database
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+
+
 
 ### Tools
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
+![VS Code](https://skillicons.dev/icons?i=vscode)-->
