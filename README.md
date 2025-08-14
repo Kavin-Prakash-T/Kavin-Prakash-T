@@ -26,6 +26,17 @@ Here are some ideas to get you started:
 <!--![MongoDB](https://skillicons.dev/icons?i=mongodb)-->
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Kavin-Prakash-T">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kavin-Prakash-T&layout=compact&langs_count=8&theme=buefy"/>
+</a>
+</p>
+
+---
+
 <!--### Backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Express](https://skillicons.dev/icons?i=express)
