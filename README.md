@@ -30,7 +30,6 @@ My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, Mon
 ---
 
 ## 📫 Get in touch
-- Email: `tkavinprakash@gmail.com`
-- LinkedIn: `https://www.linkedin.com/in/kavin-prakash-t-57345b32a`
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ka.v.i.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-prakash-t-57345b32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tkavinprakash@gmail.com) 
 
 ---
