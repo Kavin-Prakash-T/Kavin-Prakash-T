@@ -5,6 +5,8 @@ My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, Mon
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kavin-Prakash-T&label=Profile%20views&color=0e75b6&style=flat" alt="dharanish-am" /> </p>
+
 ## 🔭 About Me
 - 💻 Backend + frontend developer comfortable across the stack.
 - 🎯 I focus on clean UI and  maintainable architecture
@@ -29,10 +31,17 @@ My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, Mon
 ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?logo=mysql&logoColor=white)
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kavin-Prakash-T&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+  <br></br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+   <br></br>
+  <img src="https://streak-stats.demolab.com?user=Kavin-Prakash-T&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streaks" />
+   <br></br>
+  <img src="https://ghchart.rshah.org/Kavin-Prakash-T" alt="GitHub contributions heatmap (ghchart)" />
+   <br></br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Prakash-T&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kavin-Prakash-T&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
