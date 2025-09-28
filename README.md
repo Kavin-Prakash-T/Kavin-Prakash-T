@@ -5,7 +5,6 @@ My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, Mon
 
 ---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kavin-Prakash-T&label=Profile%20views&color=0e75b6&style=flat" alt="dharanish-am" /> </p>
 
 ## 🔭 About Me
 - 💻 Backend + frontend developer comfortable across the stack.
