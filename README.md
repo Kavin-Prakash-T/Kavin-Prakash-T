@@ -28,6 +28,14 @@ My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, Mon
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?logo=mysql&logoColor=white)
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kavin-Prakash-T&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Kavin-Prakash-T&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 ## 📫 Get in touch
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ka.v.i.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-prakash-t-57345b32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tkavinprakash@gmail.com) 
