@@ -1,14 +1,13 @@
 # Hi, I'm Kavin Prakash 👋
 
-I'm a full-stack developer who loves building beautiful, performant web apps and tooling.  
+I'm an aspiring full-stack developer who loves building beautiful, performant web apps and tooling.  
 My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, MongoDB, and MySQL**.
 
 ---
 
 ## 🔭 About Me
 - 💻 Backend + frontend developer comfortable across the stack.
-- 🎯 I focus on clean UI, maintainable architecture, and shipping working features fast.
-- 🧠 Learning more about advanced React patterns, performance optimization and scalable data systems.
+- 🎯 I focus on clean UI and  maintainable architecture
 - 📚 I document learning and projects here — feel free to explore and collaborate.
 
 ---
