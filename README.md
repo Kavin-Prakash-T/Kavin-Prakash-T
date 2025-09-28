@@ -1,42 +1,33 @@
-## Hi there 👋
+# Hi, I'm Kavin Prakash 👋
 
-<!--
-**Kavin-Prakash-T/Kavin-Prakash-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## 🚀 Skills
-
-### Frontend
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
-![React](https://skillicons.dev/icons?i=react)
-
-### Database
-<!--![MongoDB](https://skillicons.dev/icons?i=mongodb)-->
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-
+I'm a full-stack developer who loves building beautiful, performant web apps and tooling.  
+My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, MongoDB, and MySQL**.
 
 ---
 
-<!--### Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
+## 🔭 About Me
+- 💻 Backend + frontend developer comfortable across the stack.
+- 🎯 I focus on clean UI, maintainable architecture, and shipping working features fast.
+- 🧠 Learning more about advanced React patterns, performance optimization and scalable data systems.
+- 📚 I document learning and projects here — feel free to explore and collaborate.
 
+---
 
+## 🔧 Tech & Tools
 
-### Tools
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)-->
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?logo=mysql&logoColor=white)
+
+---
+
+## 📫 Get in touch
+- Email: `tkavinprakash@gmail.com`
+- LinkedIn: `https://www.linkedin.com/in/kavin-prakash-t-57345b32a`
+
+---
