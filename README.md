@@ -1,4 +1,18 @@
-# Hi, I'm Kavin Prakash 👋
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514389/4753/sunglasses_rock.gif?1643514389" width="32"/>
+  Hello! I'm 
+  <span style="background: linear-gradient(90deg, #4F46E5, #22D3EE, #10B981); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 1px 1px 2px #00000055;">
+    Kavin Prakash
+  </span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Frontend+Developer;Problem+Solver;" alt="Typing SVG" />
+</h3>
+
+---
+
 
 I'm an aspiring full-stack developer who loves building beautiful, performant web apps and tooling.  
 My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, MongoDB, and MySQL**.
