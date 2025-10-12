@@ -1,9 +1,14 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514389/4753/sunglasses_rock.gif?1643514389" width="32"/>
   Hello! I'm 
-  <span style="background: linear-gradient(90deg, #FF0000, #FFD700, #000000); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 1px 1px 2px #00000055;">
-    Kavin Prakash
-  </span>
+  <span style="background: linear-gradient(90deg, #FFF700, #C6FF00, #32CD32);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight: bold;
+  text-shadow: 1px 1px 3px #00000055;">
+  Kavin Prakash
+</span>
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
