@@ -1,34 +1,40 @@
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514389/4753/sunglasses_rock.gif?1643514389" width="32"/>
   Hello! I'm 
-  <span style="background: linear-gradient(90deg, #FFF700, #C6FF00, #32CD32);
-  -webkit-background-clip: text;
-  color: transparent;
-  font-weight: bold;
-  text-shadow: 1px 1px 3px #00000055;">
-  Kavin Prakash
-</span>
-
+  <span style="background: linear-gradient(90deg, #4F46E5, #22D3EE, #10B981); -webkit-background-clip: text; color: transparent; font-weight: bold; text-shadow: 1px 1px 2px #00000055;">
+    Kavin Prakash
+  </span>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&lines=Frontend+Developer;Problem+Solver;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=D4FF00&center=true&vCenter=true&width=550&lines=Frontend+Developer;Problem+Solver" alt="Typing SVG" />
 </h3>
 
 ---
 
+<p align="center">
+  <a href="https://github.com/Kavin-Prakash-T?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kavin-Prakash-T?label=Followers&logo=github&color=0CC935&logoColor=bla&style=for-the-badge" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/Kavin-Prakash-T">
+    <img src="https://komarev.com/ghpvc/?username=Kavin-Prakash-T&label=Profile%20Views&color=2242E3&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
 
-I'm an aspiring full-stack developer who loves building beautiful, performant web apps and tooling.  
+
+---
+
+I'm an aspiring full-stack developer who loves building beautiful,scalable web apps and tooling.  
 My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, MongoDB, and MySQL**.
 
 ---
 
 
 ## 🔭 About Me
-- 💻 Backend + frontend developer comfortable across the stack.
-- 🎯 I focus on clean UI and  maintainable architecture
-- 📚 I document learning and projects here — feel free to explore and collaborate.
+- 💻 Frontend developer comfortable across the stack.I'm currently learning Backend development in Java.
+- 🎯 I focus on clean UI and  maintainable architecture.
+- 📚 I document learning and projects here , feel free to explore and collaborate.
 
 ---
 
