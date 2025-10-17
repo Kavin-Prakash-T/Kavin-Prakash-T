@@ -26,7 +26,7 @@
 ---
 
 I'm an aspiring full-stack developer who loves building beautiful,scalable web apps and tooling.  
-My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, MongoDB, and MySQL**.
+My toolkit centers around **HTML, CSS, JavaScript, React, TailwindCSS, MongoDB, MySQL and Java**.
 
 ---
 
@@ -81,6 +81,6 @@ My toolkit centers around **HTML, CSS, JavaScript, Java, React, TailwindCSS, Mon
   
 ## 📫 Get in touch
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ka.v.i.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-prakash-t-57345b32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tkavinprakash@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ka.v.i.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-prakash-t-57345b32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tkavinprakash@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-%99cc00.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/kavinprakasht14/)
 
 ---
