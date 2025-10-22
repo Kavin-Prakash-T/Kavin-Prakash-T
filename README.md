@@ -57,7 +57,7 @@ My toolkit centers around **HTML, CSS, JavaScript, React, TailwindCSS, MongoDB, 
 ---
 
 ## 📊 GitHub Stats:
-<p>
+<p align="center">
 
   <img src="https://streak-stats.demolab.com?user=Kavin-Prakash-T&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
   <br><br/>
@@ -74,7 +74,7 @@ My toolkit centers around **HTML, CSS, JavaScript, React, TailwindCSS, MongoDB, 
 
 ## 🏆 GitHub Trophies
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Akilesh-programmer&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Kavin-Prakash-T&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
   </div>
   
 ---
