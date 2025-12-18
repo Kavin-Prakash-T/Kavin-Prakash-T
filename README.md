@@ -26,13 +26,13 @@
 ---
 
 I'm an aspiring full-stack developer who loves building beautiful,scalable web apps and tooling.  
-My toolkit centers around **HTML, CSS, JavaScript, TailwindCSS, MongoDB, MySQL and Java**.
+My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js, TailwindCSS, MongoDB, MySQL and Java**.
 
 ---
 
 
 ## 🔭 About Me
-- 💻 Frontend developer comfortable across the stack.I'm currently learning Backend development in Java.
+- 💻 Frontend developer comfortable across the stack.I'm currently learning Backend development(MERN).
 - 🎯 I focus on clean UI and  maintainable architecture.
 - 📚 I document learning and projects here , feel free to explore and collaborate.
 
@@ -40,18 +40,20 @@ My toolkit centers around **HTML, CSS, JavaScript, TailwindCSS, MongoDB, MySQL a
 
 ## 🔧 Tech & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?logo=bootstrap&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?logo=netlify&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23007ACC.svg?logo=mysql&logoColor=white)
-<!--![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)-->
-<!--![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white)-->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-007ACC?logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+
 
 ---
 
