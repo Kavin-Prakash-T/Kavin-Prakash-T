@@ -13,18 +13,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Kavin-Prakash-T?tab=followers">
-    <img src="https://img.shields.io/github/followers/Kavin-Prakash-T?label=Followers&logo=github&color=0CC935&logoColor=bla&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/Kavin-Prakash-T">
-    <img src="https://komarev.com/ghpvc/?username=Kavin-Prakash-T&label=Profile%20Views&color=2242E3&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
-
-
----
-
 I'm an aspiring full-stack developer who loves building beautiful,scalable web apps and tooling.  
 My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js, TailwindCSS, MongoDB, MySQL and Java**.
 
