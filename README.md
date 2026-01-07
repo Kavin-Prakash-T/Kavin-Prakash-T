@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2200FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2200FF&center=true&vCenter=true&width=550&lines=MERN Stack;Problem+Solver" alt="Typing SVG" />
 </h3>
 
 ---
