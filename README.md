@@ -50,22 +50,11 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 
   <img src="https://streak-stats.demolab.com?user=Kavin-Prakash-T&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
   <br><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <br></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
-   <br></br>
- 
+  
  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Prakash-T&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kavin-Prakash-T&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
-  </div>
-  
 ---
   
 ## 📫 Get in touch
