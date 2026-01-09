@@ -50,8 +50,12 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 
   <img src="https://streak-stats.demolab.com?user=Kavin-Prakash-T&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
   <br><br/>
-  
- 
+
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kavin-prakash-t&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Prakash-T&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
