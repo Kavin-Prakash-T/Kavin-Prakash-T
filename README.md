@@ -26,6 +26,13 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 
 ---
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Kavin-Prakash-T&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
+  </a>
+</div>
+
+
 ## 🔧 Tech & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
@@ -49,9 +56,9 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&bg_color=141321&title_color=f92672&text_color=e2e9ec&icon_color=79dafa&border_color=141321&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&layout=compact&bg_color=141321&title_color=f92672&text_color=e2e9ec&border_color=141321&cache_seconds=86400)
 
 </div>
 
