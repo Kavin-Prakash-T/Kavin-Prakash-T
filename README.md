@@ -46,20 +46,19 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-
-  <img src="https://streak-stats.demolab.com?user=Kavin-Prakash-T&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
-  <br><br/>
-
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kavin-prakash-t&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <a href="https://github.com/Kavin-Prakash-T">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</div>
 
 ---
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Prakash-T&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
 
----
+<h2 align="center">🔥 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Prakash-T&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
   
 ## 📫 Get in touch
 
