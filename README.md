@@ -45,14 +45,15 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/Kavin-Prakash-T">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavin-prakash-t&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</div>
+## 📊 GitHub Stats
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=86400)
+
+</div>
 ---
 
 <h2 align="center">🔥 Contribution Graph</h2>
