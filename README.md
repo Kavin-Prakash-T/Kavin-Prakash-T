@@ -24,14 +24,6 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 - 🎯 I focus on clean UI and  maintainable architecture.
 - 📚 I document learning and projects here , feel free to explore and collaborate.
 
----
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Kavin-Prakash-T&theme=radical&border_radius=10&mode=weekly" alt="GitHub Streak"/>
-  </a>
-</div>
-
 
 ---
 
