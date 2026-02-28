@@ -43,29 +43,3 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 ![MySQL](https://img.shields.io/badge/MySQL-007ACC?logo=mysql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavin-Prakash-T&show_icons=true&bg_color=141321&title_color=f92672&text_color=e2e9ec&icon_color=79dafa&border_color=141321&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavin-Prakash-T&layout=compact&bg_color=141321&title_color=f92672&text_color=e2e9ec&border_color=141321&cache_seconds=86400)
-
-</div>
-
----
-
-<h2 align="center">🔥 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavin-Prakash-T&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-  
-## 📫 Get in touch
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ka.v.i.n_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavin-prakash-t-57345b32a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tkavinprakash@gmail.com) [![Leetcode](https://img.shields.io/badge/Leetcode-%99cc00.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/kavinprakasht14/)
-
----
