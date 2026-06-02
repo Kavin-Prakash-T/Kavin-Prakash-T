@@ -14,13 +14,13 @@
 ---
 
 I'm an aspiring full-stack developer who loves building beautiful,scalable web apps and tooling.  
-My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js, TailwindCSS, MongoDB, MySQL and Java**.
+My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js, TailwindCSS, MongoDB, MySQL, PostgreSql and Java**.
 
 ---
 
 
 ## 🔭 About Me
-- 💻 Frontend developer comfortable across the stack.I'm currently learning Backend development(MERN).
+- 💻 Frontend developer and Backend developer(MERN). Currently learning Next.js
 - 🎯 I focus on clean UI and  maintainable architecture.
 - 📚 I document learning and projects here , feel free to explore and collaborate.
 
@@ -41,5 +41,6 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-007ACC?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
