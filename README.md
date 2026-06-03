@@ -14,7 +14,7 @@
 ---
 
 I'm an aspiring full-stack developer who loves building beautiful,scalable web apps and tooling.  
-My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js, TailwindCSS, MongoDB, MySQL, PostgreSql and Java**.
+My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js, TailwindCSS, TypeScript, MongoDB, MySQL, PostgreSQL and Java**.
 
 ---
 
@@ -33,6 +33,7 @@ My toolkit centers around **HTML, CSS, JavaScript, React.js, Node.js, Express.js
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
